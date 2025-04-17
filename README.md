@@ -1,7 +1,7 @@
 # Spell Checker
 
 ## Overview
-This C++ console application serves as a **spell checker**, identifying misspelled words in a document by comparing them against a **balanced binary search tree** populated with words from a provided dictionary file.
+This console application serves as a **spell checker**, identifying misspelled words in a document by comparing them against a **balanced binary search tree** populated with words from a provided dictionary file.
 
 ## Features
 - **Binary Search Tree (BST):** Stores dictionary words efficiently for quick lookup.
